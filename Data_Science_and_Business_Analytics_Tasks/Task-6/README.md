@@ -1,4 +1,4 @@
-# Task 2 - Prediction using Decision Tree Algorithm
+# Task 6 - Prediction using Decision Tree Algorithm
 
 ## Problem Statement:
 - Create the Decision Tree classifier of Iris dataset and visualize it graphically.
